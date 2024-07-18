@@ -1,0 +1,15 @@
+Projet:
+
+Nom de l'entreprise:
+Bouledogue
+
+Description de l'entreprise:
+Nous sommes une entreprise qui réalise et distribue des films comiques. Ils se démarquent car ils sont véridiques et disponibles dans les magasins en ligne. Notre public cible est constitué de femmes. Nous souhaitons transmettre un sentiment de fidélité, tout en étant professionnels.
+
+Description de l'emploi:
+Vous devez créer un site internet qui permettra principalement de contacter facilement l’entreprise. L’objectif est de fournir une excellente expérience utilisateur. Outre la page de destination, le site Web aura besoin d’une page d’informations, d’une page de boutique et d’une page de conditions de service. La page de destination doit avoir une section Nos valeurs.
+Il devrait y avoir un appel à l'action pour inciter les utilisateurs à consulter le catalogue. Ils préféreraient un design monochrome et aimeraient que vous utilisiez la couleur de la marque, qui est le vert. Tenir compte des préférences et des valeurs du client.
+
+
+site web utiliser: 
+https://chatgpt.com ==> pour créer le site de base en ne codant rien du tous.
